@@ -38,8 +38,8 @@ and risk management.
 
 ## Authors
 
-* **Filip Aleksić** ([GitHub](https://github.com/aleksicfilip)
-* **Mate Papak** ([GitHub](https://github.com/PapakMate)
+* **Filip Aleksić** ([GitHub](https://github.com/aleksicfilip))
+* **Mate Papak** ([GitHub](https://github.com/PapakMate))
 * **Stjepan Begušić** (Mentor)
 
 ## License
